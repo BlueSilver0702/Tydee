@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Modules/RCTDevMenu.m \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTWebSocketProxy.h \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/React/Base/RCTWebSocketProxyDelegate.h

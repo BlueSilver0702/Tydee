@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/Libraries/Vibration/RCTVibration.m \
+  /Users/hermanowens/Projects/Tydee/node_modules/react-native/Libraries/Vibration/RCTVibration.h \
+  ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h

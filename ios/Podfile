@@ -1,0 +1,16 @@
+source 'https://github.com/CocoaPods/Specs.git'
+pod 'React', :subspecs => [
+    'Core',
+    'RCTActionSheet',
+    'RCTGeolocation',
+    'RCTImage',
+    'RCTNetwork',
+    'RCTSettings',
+    'RCTText',
+    'RCTVibration',
+    'RCTWebSocket'
+], :path => '../node_modules/react-native'
+pod 'LockReactNative', :path => '../node_modules/react-native-lock-ios'
+pod 'Lock-Facebook', '~> 2.2'
+pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+pod 'react-native-braintree', :path => '../node_modules/react-native-braintree'
